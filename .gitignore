@@ -1,2 +1,4 @@
 **/*.ibc
+*.ibc
+*.o
 .projectile
